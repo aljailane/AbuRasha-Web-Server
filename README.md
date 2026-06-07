@@ -1,6 +1,20 @@
 # AbuRasha Web Server
 
+[![GitHub Release](https://img.shields.io/badge/release-v2.4--stable-blue?style=flat-square)](https://github.com/aljailane/AbuRasha-Web-Server/releases/tag/v2.4)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078d7?style=flat-square&logo=windows)](https://github.com/aljailane/AbuRasha-Web-Server)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/aljailane/AbuRasha-Web-Server/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![PHP](https://img.shields.io/badge/PHP-8.5.6-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
+
+---
+
 AbuRasha Web Server is a professional, portable local development server environment for Windows. It provides a simple and high-performance alternative to traditional local stacks, featuring a custom GUI Control Panel and a web-based administration panel designed for seamless local development.
+
+## 💾 Downloads
+
+[![Download Stable v2.4 (ZIP)](https://img.shields.io/badge/DOWNLOAD_STABLE_ZIP-v2.4--stable-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aljailane/AbuRasha-Web-Server/archive/refs/tags/v2.4.zip)
+
+---
 
 ## 🚀 Features
 
