@@ -1,0 +1,15 @@
+[Sun Jun 07 08:34:59.709368 2026] [mpm_winnt:notice] [pid 5200:tid 448] AH00455: Apache/2.4.66 (Win32) PHP/8.5.5 configured -- resuming normal operations
+[Sun Jun 07 08:34:59.709368 2026] [mpm_winnt:notice] [pid 5200:tid 448] AH00456: Apache Lounge VS18 erver built: Jan 30 2026 17:00:50
+[Sun Jun 07 08:34:59.709368 2026] [core:notice] [pid 5200:tid 448] AH00094: Command line: 'C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61\\bin\\httpd.exe -d C:/Users/aljailane/Videos/AburshaSERV/bin/apache2.4.61 -d C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61 -f C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61\\conf\\httpd.conf'
+[Sun Jun 07 08:34:59.716474 2026] [mpm_winnt:notice] [pid 5200:tid 448] AH00418: Parent: Created child process 5124
+[Sun Jun 07 08:35:00.835181 2026] [mpm_winnt:notice] [pid 5124:tid 484] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 07 08:37:25.993589 2026] [mpm_winnt:notice] [pid 26348:tid 452] AH00455: Apache/2.4.66 (Win32) PHP/8.5.5 configured -- resuming normal operations
+[Sun Jun 07 08:37:25.993589 2026] [mpm_winnt:notice] [pid 26348:tid 452] AH00456: Apache Lounge VS18 erver built: Jan 30 2026 17:00:50
+[Sun Jun 07 08:37:25.993589 2026] [core:notice] [pid 26348:tid 452] AH00094: Command line: 'C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61\\bin\\httpd.exe -d C:/Users/aljailane/Videos/AburshaSERV/bin/apache2.4.61 -d C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61 -f C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61\\conf\\httpd.conf'
+[Sun Jun 07 08:37:26.002286 2026] [mpm_winnt:notice] [pid 26348:tid 452] AH00418: Parent: Created child process 24848
+[Sun Jun 07 08:37:26.861565 2026] [mpm_winnt:notice] [pid 24848:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 07 08:37:47.385293 2026] [mpm_winnt:notice] [pid 15356:tid 472] AH00455: Apache/2.4.66 (Win32) PHP/8.5.5 configured -- resuming normal operations
+[Sun Jun 07 08:37:47.385293 2026] [mpm_winnt:notice] [pid 15356:tid 472] AH00456: Apache Lounge VS18 erver built: Jan 30 2026 17:00:50
+[Sun Jun 07 08:37:47.385293 2026] [core:notice] [pid 15356:tid 472] AH00094: Command line: 'C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61\\bin\\httpd.exe -d C:/Users/aljailane/Videos/AburshaSERV/bin/apache2.4.61 -d C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61 -f C:\\Users\\aljailane\\Videos\\AburshaSERV\\bin\\apache2.4.61\\conf\\httpd.conf'
+[Sun Jun 07 08:37:47.389333 2026] [mpm_winnt:notice] [pid 15356:tid 472] AH00418: Parent: Created child process 23860
+[Sun Jun 07 08:37:48.252400 2026] [mpm_winnt:notice] [pid 23860:tid 440] AH00354: Child: Starting 64 worker threads.

@@ -1,0 +1,110 @@
+[22-Apr-2026 00:47:11 UTC] PHP Warning:  Missing arginfo for () in Unknown on line 0
+[22-Apr-2026 00:47:11 UTC] PHP Warning:  Static function () cannot be abstract in Unknown on line 0
+[22-Apr-2026 00:47:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_curl.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_curl.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:47:42 UTC] PHP Warning:  PHP Startup: fileinfo: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:42 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:42 UTC] PHP Warning:  PHP Startup: intl: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:42 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:42 UTC] PHP Warning:  PHP Startup: mysqli: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_openssl.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_openssl.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:47:43 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:43 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sqlite3.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_sqlite3.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_sqlite3.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:47:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_zip.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_zip.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_zip.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:47:48 UTC] PHP Warning:  Missing arginfo for () in Unknown on line 0
+[22-Apr-2026 00:47:48 UTC] PHP Warning:  Static function () cannot be abstract in Unknown on line 0
+[22-Apr-2026 00:47:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_curl.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_curl.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:47:50 UTC] PHP Warning:  PHP Startup: fileinfo: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:50 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:50 UTC] PHP Warning:  PHP Startup: intl: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:50 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:50 UTC] PHP Warning:  PHP Startup: mysqli: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_openssl.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_openssl.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:47:51 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:51 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:47:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sqlite3.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_sqlite3.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_sqlite3.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:47:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_zip.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_zip.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_zip.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:48:03 UTC] PHP Warning:  Missing arginfo for () in Unknown on line 0
+[22-Apr-2026 00:48:03 UTC] PHP Warning:  Static function () cannot be abstract in Unknown on line 0
+[22-Apr-2026 00:48:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_curl.dll (The specified procedure could not be found), c:/Users/aljailane/Documents/usbwebserver/bin/php8.3/ext\php_php_curl.dll.dll (The specified module could not be found)) in Unknown on line 0
+[22-Apr-2026 00:48:06 UTC] PHP Warning:  PHP Startup: fileinfo: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:48:06 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:48:06 UTC] PHP Warning:  PHP Startup: intl: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:48:06 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0
+[22-Apr-2026 00:48:06 UTC] PHP Warning:  PHP Startup: mysqli: Unable to initialize module
+Module compiled with module API=20230831
+PHP    compiled with module API=20250925
+These options need to match
+ in Unknown on line 0

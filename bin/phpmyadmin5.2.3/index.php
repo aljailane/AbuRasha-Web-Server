@@ -1,0 +1,1 @@
+<?php echo "phpMyAdmin 5.2.3 is running under www/phpmyadmin5.2.3"; ?>

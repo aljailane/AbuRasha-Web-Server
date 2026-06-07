@@ -1,0 +1,6 @@
+www_backup/
+__pycache__/
+build/
+dist/
+temp/
+config/cmd.json
