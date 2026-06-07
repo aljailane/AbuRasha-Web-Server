@@ -23,6 +23,28 @@ AbuRasha Web Server is a professional, portable local development server environ
 - **GUI Desktop App:** Python (CustomTkinter)
 - **Web Frontend:** HTML, CSS, JavaScript (Vanilla implementation matching classic web panel styling)
 
+## 📦 Packaged Runtimes & Available Versions
+
+AbuRasha Web Server comes bundled with multiple pre-configured versions of popular web stack runtimes. You can switch between them seamlessly:
+
+- **PHP Runtimes:**
+  - `PHP 5.2.1` (Legacy support)
+  - `PHP 8.2.0`
+  - `PHP 8.3`
+  - `PHP 8.4`
+  - `PHP 8.5.6` (Latest Active PHP version)
+- **Apache Web Server:**
+  - `Apache 2.4.59`
+  - `Apache 2.4.60`
+  - `Apache 2.4.61`
+  - `Apache 2.4.62`
+  - `Apache 2.4.63` (Latest Active Apache version)
+- **MariaDB Database:**
+  - `MariaDB 10.11 LTS`
+  - `MariaDB 11.4 LTS` (Latest Active MariaDB version)
+- **phpMyAdmin:**
+  - `phpMyAdmin 5.2.3` (Database Administration)
+
 ## 📁 Repository Structure
 
 ```text
@@ -63,6 +85,15 @@ The desktop control application interface and local web index dashboard:
 | Database Config Portal | Apache/PHP Status & Log Viewers |
 | :---: | :---: |
 | ![phpMyAdmin Missing State Warning](dist/scrn/S0838184.png) | ![Active Server Engine Version Details](dist/scrn/S0838185.png) |
+
+## 📅 Changelog & Updates (Up to June 7, 2026)
+
+### v2.4 Stable (June 7, 2026)
+- **Dynamic Reconnection Overlay:** Implemented an AJAX interception system that catches page restarts and displays a gorgeous loading overlay while automatically checking when Apache is back online before reloading the panel.
+- **System Logs Cleansing Button:** Added a dynamic, tab-aware "Clear Logs" button inside the log viewer panel to easily empty Apache and PHP logs with backend synchronization.
+- **Enhanced Localizations:** Transformed the administration panel help, buttons, and server status elements to be English-friendly, aligning with modern web dashboard layout standards.
+- **Upgraded Runtimes:** Packaged stable, portable releases of PHP 8.5.6, Apache 2.4.63, and MariaDB 11.4 as the current default options.
+- **Robust SQLite Toggle:** Integrated one-click SQLite3 activation/deactivation inside the php.ini configuration with automatic service reload.
 
 ## 📄 License
 
