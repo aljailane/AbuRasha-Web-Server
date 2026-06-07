@@ -1,6 +1,7 @@
 www_backup/
 __pycache__/
 build/
-dist/
+dist/*
+!dist/scrn/
 temp/
 config/cmd.json

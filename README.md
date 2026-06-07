@@ -42,6 +42,28 @@ AbuRasha Web Server is a professional, portable local development server environ
 4. Open `http://localhost:8080` in your web browser to access the Server Index.
 5. Click **AbuRasha Web Panel** to configure runtimes or view error logs.
 
+## 📸 Screenshots & Verification
+
+### 🖥️ AbuRasha Web Panel (Web Administration & Settings)
+Here is the web control interface (`adminserver.php`) used to manage logs, SQLite, PHP/Apache configurations, and server reboots:
+
+| Web Panel Dashboard | Real-time Logs & SQLite Control |
+| :---: | :---: |
+| ![Web Panel Dashboard](dist/scrn/S0838186.png) | ![Real-time Logs & SQLite Control](dist/scrn/S0838181.png) |
+
+---
+
+### 🌐 Local Web Server & Services GUI
+The desktop control application interface and local web index dashboard:
+
+| Server Desktop Dashboard | Component Manager (Apache/PHP/DB) |
+| :---: | :---: |
+| ![Desktop GUI Main Dashboard](dist/scrn/S0838182.png) | ![GUI Component Version Manager](dist/scrn/S0838183.png) |
+
+| Database Config Portal | Apache/PHP Status & Log Viewers |
+| :---: | :---: |
+| ![phpMyAdmin Missing State Warning](dist/scrn/S0838184.png) | ![Active Server Engine Version Details](dist/scrn/S0838185.png) |
+
 ## 📄 License
 
 This project is open-source and available under the MIT License.
